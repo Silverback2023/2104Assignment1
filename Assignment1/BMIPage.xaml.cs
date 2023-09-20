@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
@@ -13,10 +13,6 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-// The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
-
-
-
 namespace Assignment1
 {
     public sealed partial class BMIPage : Page
@@ -26,22 +22,21 @@ namespace Assignment1
             this.InitializeComponent();
         }
 
-        
-
-        private void btnCalculateBMI_Click(object sender, RoutedEventArgs e)
-        private void btnHome_Click_1(object sender, RoutedEventArgs e)
+        private void btnHome_Click(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(MainPage));
         }
 
         private void btnCalculateBMI_Click(object sender, RoutedEventArgs e)
         {
+            Debug.WriteLine("btnCalculateBMI_Click executed.");
+
             if (double.TryParse(heightCM.Text, out double height) && double.TryParse(weightKG.Text, out double weight))
             {
                 // Calculate BMI
                 double bmi = weight / ((height / 100) * (height / 100));
 
-                // Display the result in bmiResult TextBox
+                // Display the result in bmiResult TextBlock
                 bmiResult.Text = $"Your BMI is: {bmi:F2}";
             }
             else
@@ -50,5 +45,6 @@ namespace Assignment1
                 bmiResult.Text = "Please enter valid height and weight.";
             }
         }
+
     }
 }

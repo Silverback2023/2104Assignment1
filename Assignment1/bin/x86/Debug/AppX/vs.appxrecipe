@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-20T20:58:38.089</Modified>
+      <Modified>2023-09-20T23:11:22.287</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\Assignment1.exe">
       <PackagePath>entrypoint\Assignment1.exe</PackagePath>
-      <Modified>2023-09-20T20:58:36.208</Modified>
+      <Modified>2023-09-20T23:11:21.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,23 +86,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\Assignment1.xr.xml">
       <PackagePath>Assignment1.xr.xml</PackagePath>
-      <Modified>2023-09-20T20:51:25.924</Modified>
+      <Modified>2023-09-20T22:26:19.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-09-20T20:58:36.129</Modified>
+      <Modified>2023-09-20T23:11:21.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\BMIPage.xbf">
       <PackagePath>BMIPage.xbf</PackagePath>
-      <Modified>2023-09-20T20:58:36.129</Modified>
+      <Modified>2023-09-20T23:11:21.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-09-20T20:58:36.129</Modified>
+      <Modified>2023-09-20T23:11:21.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\TipCalculatorPage.xbf">
       <PackagePath>TipCalculatorPage.xbf</PackagePath>
-      <Modified>2023-09-20T20:58:36.130</Modified>
+      <Modified>2023-09-20T23:11:21.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22000.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -110,11 +110,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-20T20:34:54.127</Modified>
+      <Modified>2023-09-20T23:00:35.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leoval Cabato\OneDrive\Documents\Fall2023 Yr2\CSTP 2104 - Windows Interactive App Prog %28Xing%29\Assignment1\Assignment1\bin\x86\Debug\Core\Assignment1.exe">
       <PackagePath>Assignment1.exe</PackagePath>
-      <Modified>2023-09-20T20:58:38.083</Modified>
+      <Modified>2023-09-20T23:11:22.278</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

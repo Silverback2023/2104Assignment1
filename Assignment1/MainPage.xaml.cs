@@ -35,5 +35,6 @@ namespace Assignment1
             // Use the Frame to navigate to the TipCalculatorPage.
             MainFrame.Navigate(typeof(TipCalculatorPage));
         }
+
     }
 }
