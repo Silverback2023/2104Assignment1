@@ -28,7 +28,7 @@ namespace Assignment1
 
         
 
-
+        private void btnCalculateBMI_Click(object sender, RoutedEventArgs e)
         private void btnHome_Click_1(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(MainPage));
